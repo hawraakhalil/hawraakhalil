@@ -1,4 +1,4 @@
-<h1 align="center">👩‍💻 Hello, World! I'm Hawraa!</h1>
+<h1 align="center">👩‍💻 Hello World! I'm Hawraa!</h1>
 
 <h3 align="center">
   I'm a passionate Computer Science and Engineering student at the American University of Beirut. 
