@@ -1,5 +1,5 @@
 <h1 align="center">👩‍💻 Hello World! I'm Hawraa!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
+
 <h3 align="center">
   I'm a passionate Computer Science and Engineering student at the American University of Beirut. 
   My journey in tech is fueled by curiosity and a love for learning. I'm always exploring new 
@@ -8,6 +8,8 @@
 </h3>
 
 <br />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
 
 <h3 align="left">🛠️ Languages and Tools I Use:</h3>
 
