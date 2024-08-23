@@ -137,9 +137,10 @@
 <p align="left">
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hawraakhalil&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hawraakhalil&show_icons=true&locale=en&layout=pie"
     alt="hawraakhalil"
   />
+
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=hawraakhalil&show_icons=true&locale=en"
