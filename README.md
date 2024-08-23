@@ -23,17 +23,26 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
   </a>
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
   <a href="https://smlfamily.github.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg" alt="Standard ML" width="40" height="40" />
+  </a>
+    <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
+  </a>
+  <a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="40" height="40" />
+  </a>
+  <a href="https://riscv.org/" target="_blank" rel="noreferrer">
+    <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="RISC-V" width="40" height="40" />
   </a>
 </p>
 
 <!-- Web Development -->
 <h4 align="left">Web Development:</h4>
 <p align="left">
+    <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
   </a>
@@ -49,6 +58,15 @@
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
   </a>
+  <a href="https://reflex.dev/" target="_blank" rel="noreferrer">
+    <img
+      src="https://logowik.com/content/uploads/images/reflex-python7192.logowik.com.webp"
+      alt="Reflex"
+      width="50"
+      height="40"
+    />
+</a>
+
 </p>
 
 <!-- Databases -->
@@ -62,8 +80,28 @@
   </a>
 </p>
 
-<!-- Tools and Platforms -->
-<h4 align="left">Tools and Platforms:</h4>
+<!-- Cloud Platforms and Services -->
+<h4 align="left">Cloud Platforms and Services:</h4>
+<p align="left">
+  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+      alt="AWS"
+      width="40"
+      height="40"
+    />
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"
+      alt="WordPress"
+      width="40"
+      height="40"
+    />
+</a>
+  </p>
+<!-- Development Tools and Platforms -->
+<h4 align="left">Development Tools and Platforms:</h4>
 <p align="left">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
@@ -71,12 +109,28 @@
   <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" />
   </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg"
+      alt="PyCharm"
+      width="40"
+      height="40"
+    />
+</a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
   </a>
+    <a href="https://slack.com/" target="_blank" rel="noreferrer">
+    <img
+      src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png"
+      alt="Slack"
+      width="40"
+      height="40"
+    />
+  </a>
 </p>
 
 <!-- Operating Systems -->
@@ -89,26 +143,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
   </a>
 </p>
-
-<!-- Additional Tools -->
-<h4 align="left">Additional Tools:</h4>
-<p align="left">
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="40" height="40" />
-  </a>
-  <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-    <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="RISC-V" width="40" height="40" />
-  </a>
-</p>
-
 <!-- Cybersecurity -->
 <h4 align="left">Cybersecurity:</h4>
 <p align="left">
   <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="60" height="40" />
+    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="70" height="40" />
   </a>
   <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
