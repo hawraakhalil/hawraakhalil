@@ -129,7 +129,28 @@
     <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
   </a>
 </p>
+<br />
 
+<h3 align="left">📊 GitHub Stats:</h3>
+<p align="left">
+  <img
+    align="left"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hawraakhalil&show_icons=true&locale=en&layout=compact"
+    alt="hawraakhalil"
+  />
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=hawraakhalil&show_icons=true&locale=en"
+    alt="hawraakhalil"
+  />
+  <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hawraakhalil&"
+    alt="hawraakhalil"
+  />
+</p>
+
+<br />
 <br />
 
 <h3 align="left">📬 Reach out to me:</h3>
