@@ -153,8 +153,6 @@
   />
 </p>
 
-<br />
-
 <h3 align="left">📬 Reach out to me:</h3>
 <p>
   Feel free to reach out to me on
