@@ -154,7 +154,6 @@
 </p>
 
 <br />
-<br />
 
 <h3 align="left">📬 Reach out to me:</h3>
 <p>
