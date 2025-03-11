@@ -149,11 +149,6 @@
     src="https://github-readme-stats.vercel.app/api?username=hawraakhalil&show_icons=true&locale=en"
     alt="hawraakhalil"
   />
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=hawraakhalil&"
-    alt="hawraakhalil"
-  />
 </p>
 
 <h3 align="left">📬 Reach out to me:</h3>
