@@ -14,7 +14,7 @@
 
 <h3 align="left">🛠️ Languages and Tools I Use:</h3>
 <p align="left">
-  <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,latex,r,bash,javascript,html,css,react,nodejs,bootstrap,opencv,sklearn,pytorch,ai,git,docker,jenkins,eclipse,pycharm,matlab,vscode,postman,figma,mysql,sqlite,aws,wordpress,kali,windows,linux&perline=18" /> </a>
+  <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,latex,r,bash,javascript,ts,html,css,react,nodejs,nextjs,bootstrap,vite,opencv,sklearn,pytorch,ai,git,docker,jenkins,eclipse,pycharm,matlab,vscode,postman,figma,mysql,sqlite,aws,wordpress,kali,windows,linux&perline=18" /> </a>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
