@@ -32,8 +32,6 @@
   />
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
-
 <h3 align="left">📬 Reach out to me:</h3>
 <p>
   Feel free to reach out to me on
@@ -54,3 +52,4 @@
   discussions about technology and innovation. Thanks for stopping by! 😊
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
