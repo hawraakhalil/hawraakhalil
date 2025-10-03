@@ -10,7 +10,12 @@
 
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hawraakhalil/hawraakhalil/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hawraakhalil/hawraakhalil/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/hawraakhalil/hawraakhalil/output/github-snake.svg" />
+</picture>
+
 
 <h3 align="left">🛠️ Languages and Tools I Use:</h3>
 <p align="left">
@@ -31,6 +36,7 @@
   />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
 
 <h3 align="left">📬 Reach out to me:</h3>
 <p>
