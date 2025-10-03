@@ -13,7 +13,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/hawraakhalil/hawraakhalil/output/github-snake.svg" />
 </picture>
 
-<h3 align="left">🛠️ Languages and Tools I Use:</h3>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
   <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,latex,r,bash,javascript,ts,html,css,react,nodejs,nextjs,bootstrap,vite,opencv,sklearn,pytorch,ai,git,docker,jenkins,eclipse,pycharm,matlab,vscode,postman,figma,mysql,sqlite,aws,wordpress,kali,windows,linux&perline=18" /> </a>
 
