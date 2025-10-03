@@ -52,4 +52,4 @@
   discussions about technology and innovation. Thanks for stopping by! 😊
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Visitors&color=4169E1&leftColor=4169E1&style=flat" alt="hawraakhalil" /> </p>
