@@ -1,11 +1,8 @@
 <h1 align="center">
   <img src="https://github.com/hawraakhalil/hawraakhalil/blob/main/name.svg" alt="Hawraa Khalil" />
 </h1>
-
-<h2 align="center">👩‍💻 Hello World! I'm Hawraa!</h2>
-
 <h3 align="center">
-  I'm a passionate Computer Science and Engineering student at the American University of Beirut. 
+  👩‍💻Hello World! I'm Hawraa, a passionate Computer Science and Engineering student at the American University of Beirut. 
   My journey in tech is fueled by curiosity and a love for learning. I'm always exploring new 
   technologies, working on exciting projects, and striving to make a positive impact in the world 
   through coding.
@@ -16,152 +13,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hawraakhalil&label=Profile%20views&color=7195DD&style=flat" alt="hawraakhalil" /> </p>
 
 <h3 align="left">🛠️ Languages and Tools I Use:</h3>
-
-<!-- Programming Languages -->
-<h4 align="left">Programming Languages:</h4>
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://smlfamily.github.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/sml.svg" alt="Standard ML" width="40" height="40" />
-  </a>
-  <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40" />
-  </a>
-  <a href="https://ieeexplore.ieee.org/document/10458102" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Verilog-Solutions/.github/main/assets/verilog-logo.svg" alt="Verilog" width="50" height="40" />
-  </a>
-  <a href="https://riscv.org/" target="_blank" rel="noreferrer">
-    <img src="https://riscv.org/wp-content/uploads/2020/06/riscv-color.svg" alt="RISC-V" width="50" height="40" />
-  </a>
-</p>
-
-<!-- Web Development -->
-<h4 align="left">Web Development:</h4>
-<p align="left">
-  <a href="https://www.javascript.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" />
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
-  </a>
-  <a href="https://reflex.dev/" target="_blank" rel="noreferrer">
-    <img src="https://logowik.com/content/uploads/images/reflex-python7192.logowik.com.webp" alt="Reflex" width="50" height="40" />
-  </a>
-</p>
-
-<!-- Data Science and Machine Learning -->
-<h4 align="left">Data Science and Machine Learning:</h4>
-<p align="left">
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
-  </a>
-  <a href="https://huggingface.co/transformers/" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/front/assets/huggingface_logo.svg" alt="Transformers" width="40" height="40" />
-  </a>
-  <a href="https://spacy.io/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" alt="spaCy" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Development Tools and Platforms -->
-<h4 align="left">Development Tools and Platforms:</h4>
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40" />
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40" />
-  </a>
-  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Postman_%28software%29.png" alt="Postman" width="120" height="40"/>
-</a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://slack.com/" target="_blank" rel="noreferrer">
-    <img src="https://a.slack-edge.com/80588/marketing/img/icons/icon_slack_hash_colored.png" alt="Slack" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Databases -->
-<h4 align="left">Databases:</h4>
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Cloud Platforms and Services -->
-<h4 align="left">Cloud Platforms and Services:</h4>
-<p align="left">
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" />
-  </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Operating Systems -->
-<h4 align="left">Operating Systems:</h4>
-<p align="left">
-  <a href="https://www.microsoft.com/windows/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="Windows" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-</p>
-
-<!-- Cybersecurity -->
-<h4 align="left">Cybersecurity:</h4>
-<p align="left">
-  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.wireshark.org/assets/img/wireshark-logo.png" alt="Wireshark" width="70" height="40" />
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/454430/burpsuite-security-software.svg" alt="Burp Suite" width="40" height="40" />
-  </a>
-</p>
-<br />
+  <a target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp,cs,python,java,latex,r,bash,javascript,html,css,react,nodejs,bootstrap,opencv,sklearn,pytorch,ai,git,docker,jenkins,eclipse,pycharm,matlab,vscode,postman,figma,mysql,sqlite,aws,wordpress,kali,windows,linux&perline=18" /> </a>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
