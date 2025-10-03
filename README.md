@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/hawraakhalil/hawraakhalil/blob/main/name.svg" alt="Hawraa Khalil" />
+</h1>
+
 <h1 align="center">👩‍💻 Hello World! I'm Hawraa!</h1>
 
 <h3 align="center">
